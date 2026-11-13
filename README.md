@@ -68,14 +68,8 @@ This page provides a detailed, tabular view of individual projects and their key
 ```text
 Project-Management-Delivery-Dashboard-PowerBI/
 ├── README.md
-├── Dashboard/
-│   └── Project Management & Delivery Dashboard.pbix
-├── Screenshots/
-│   ├── Project-Management-Summary.png
-│   ├── Project-Timeline.png
-│   └── Project-Details.png
-└── Documentation/
-    └── Project Management & Delivery PPT.pptx
+├── Project Management & Delivery Dashboard.pbix
+├── Project Management & Delivery Dashboard.pdf
 ```
 
 ## 🚀 How to Use
