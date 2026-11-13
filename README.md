@@ -10,7 +10,8 @@ The report is organized into three interactive pages:
 
 This page provides a high-level view of the project portfolio and its overall distribution.
 
-<img src="Screenshots/Project-Management-Summary.png" width="100%" alt="Project Management Summary dashboard" />
+<img width="1467" height="822" alt="Project Management   Delivery Dashboard-1" src="https://github.com/user-attachments/assets/47ed5edc-7bf9-4b7a-af6e-a995b2b9435e" />
+
 
 **Key elements:**
 - **Portfolio KPIs:** Total Projects, Project Cost, Benefits, and Benefit Cost Ratio.
@@ -25,7 +26,7 @@ This page provides a high-level view of the project portfolio and its overall di
 
 This page focuses on the time dimension of project delivery and phase-wise progress.
 
-<img src="Screenshots/Project-Timeline.png" width="100%" alt="Project Timeline dashboard" />
+<img width="1462" height="822" alt="Project Management   Delivery Dashboard-2" src="https://github.com/user-attachments/assets/8658f3e7-7e4c-4180-bbd0-3221fd4c5068" />
 
 **Key elements:**
 - Monthly trend of projects.
@@ -38,7 +39,7 @@ This page focuses on the time dimension of project delivery and phase-wise progr
 
 This page provides a detailed, tabular view of individual projects and their key attributes.
 
-<img src="Screenshots/Project-Details.png" width="100%" alt="Project Details dashboard" />
+<img width="1467" height="822" alt="Project Management   Delivery Dashboard-3" src="https://github.com/user-attachments/assets/3fe29a85-0945-48f2-91ea-27429fbb4b33" />
 
 **Key elements:**
 - Project Name and Project Type.
